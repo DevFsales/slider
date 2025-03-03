@@ -14,4 +14,8 @@ Funcionalidades:
   CSS: Estiliza o layout, as transições e as animações do slider, proporcionando um design clean e moderno.
   JavaScript: Controla a funcionalidade de transição automática das imagens, alternando entre as imagens a cada 3 segundos.
 
+
+![slider](https://github.com/user-attachments/assets/4710bb29-acfe-4388-8524-2af9fa71633e)
+
+
   
